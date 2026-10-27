@@ -1,0 +1,85 @@
+[
+  {
+    "id": "fx-001",
+    "title": "Нужен Python-скрипт для API",
+    "text": "Ищу фрилансера: нужен Python-скрипт, который забирает данные из REST API и складывает в Google Sheets. Бюджет 5000 руб. Срок 3 дня.",
+    "url": "https://example.com/orders/fx-001",
+    "author_id": "1001",
+    "author_name": "client_a",
+    "author_contact": "tg://user?id=1001",
+    "published_at": "2026-10-27T10:00:00+00:00"
+  },
+  {
+    "id": "fx-002",
+    "title": "Монтаж Shorts",
+    "text": "Нужен монтаж вертикальных Shorts/Reels из готовых записей, субтитры и лёгкая цветокоррекция. Бюджет маленький, около 1500₽ за ролик.",
+    "url": "https://example.com/orders/fx-002",
+    "author_id": "1002",
+    "author_name": "creator_b",
+    "author_contact": "tg://user?id=1002",
+    "published_at": "2026-10-27T11:00:00+00:00"
+  },
+  {
+    "id": "fx-003",
+    "title": "RAG-ассистент для поддержки",
+    "text": "Нужно сделать ИИ-ассистента с RAG по базе знаний компании, интеграция в Telegram. Бюджет не обсуждали пока, оцените выполнимость.",
+    "url": "https://example.com/orders/fx-003",
+    "author_id": "1003",
+    "author_name": "startup_c",
+    "author_contact": "tg://user?id=1003",
+    "published_at": "2026-10-27T12:00:00+00:00"
+  },
+  {
+    "id": "fx-004",
+    "title": "Лендинг MVP",
+    "text": "Требуется лендинг и простой дашборд для MVP. Дизайн можно на базе готового шаблона. Деплой на VPS.",
+    "url": "https://example.com/orders/fx-004",
+    "author_name": "anon",
+    "published_at": "2026-10-27T12:30:00+00:00"
+  },
+  {
+    "id": "fx-005",
+    "title": "Обсуждение библиотек",
+    "text": "Ребят, как думаете, какая библиотека лучше для парсинга PDF? Просто интересно, заказ не нужен.",
+    "url": "https://example.com/orders/fx-005",
+    "author_id": "1005",
+    "author_contact": "tg://user?id=1005",
+    "published_at": "2026-10-27T13:00:00+00:00"
+  },
+  {
+    "id": "fx-006",
+    "title": "Спам",
+    "text": "Крипт сигнал каждый день! Подпишись и зарабатывай без вложений в нашем казино.",
+    "url": "https://example.com/orders/fx-006",
+    "author_id": "1006",
+    "author_contact": "tg://user?id=1006",
+    "published_at": "2026-10-27T13:10:00+00:00"
+  },
+  {
+    "id": "fx-007",
+    "title": "Дубль Python API",
+    "text": "Ищу фрилансера: нужен Python-скрипт, который забирает данные из REST API и складывает в Google Sheets. Бюджет 5000 руб. Срок 3 дня.",
+    "url": "https://example.com/orders/fx-007-dup",
+    "author_id": "1007",
+    "author_contact": "tg://user?id=1007",
+    "published_at": "2026-10-27T14:00:00+00:00"
+  },
+  {
+    "id": "fx-008",
+    "title": "Вакансия разработчика",
+    "text": "Вакансия: ищем Python-разработчика в штат на полную занятость, оформление в команду надолго.",
+    "url": "https://example.com/orders/fx-008",
+    "author_id": "1008",
+    "author_contact": "tg://user?id=1008",
+    "published_at": "2026-10-27T15:00:00+00:00"
+  },
+  {
+    "id": "fx-009",
+    "title": "Excel отчёт",
+    "text": "Нужно сделать отчёт в Excel и Google Sheets: сводные таблицы, графики, автообновление раз в день.",
+    "url": "https://example.com/orders/fx-009",
+    "author_id": "fail:1009",
+    "author_contact": "fail:1009",
+    "published_at": "2026-10-27T16:00:00+00:00"
+  }
+]

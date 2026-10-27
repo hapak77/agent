@@ -1,0 +1,28 @@
+services:
+  app:
+    build: .
+    container_name: freelance-radar
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./.env:/app/.env:ro
+    restart: unless-stopped
+    depends_on: []
+
+  # Optional PostgreSQL for server deployments
+  # Uncomment and set DATABASE_URL=postgresql+psycopg://radar:radar@db:5432/freelance_radar
+  # db:
+  #   image: postgres:16-alpine
+  #   environment:
+  #     POSTGRES_USER: radar
+  #     POSTGRES_PASSWORD: radar
+  #     POSTGRES_DB: freelance_radar
+  #   volumes:
+  #     - pgdata:/var/lib/postgresql/data
+  #   ports:
+  #     - "5432:5432"
+  #   restart: unless-stopped
+
+# volumes:
+#   pgdata:
